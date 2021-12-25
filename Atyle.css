@@ -1,0 +1,178 @@
+*{
+    margin:0;
+    padding:0;
+}
+.no{
+    background-color:#F7F8E0;
+    display:flex;
+    align-items:center ;
+    height:90px;
+    color:#3b5998;
+    padding-left:65px;
+    font-size:28px;
+}
+.dv{
+    font-size:20px;
+    color:#1778F2;
+    padding:35px;
+    padding-bottom:15px;
+    text-align:center ;
+}
+.email,.pass{
+    height:84px;
+    width:770px;
+    display:grid;
+    border:0px solid gray;
+    place-items:center ;
+    border:none;
+    margin:12px;
+    border-radius:6px;
+    background-color:#f7f7f7;
+    box-sizing:border-box ;
+    outline:none;
+    font-size:29px;
+    padding-left:13px;
+    box-shadow: inset 0px 0px 1px black;
+}
+.email:hover{
+    border:0.5px solid black;
+}
+.pass:hover{
+    border:0.5px solid black;}
+    
+.new{
+    display:grid;
+    place-items:center ;}
+.button{
+height:83px;
+width:770px;
+display:grid;
+place-items:center ;
+margin:20px;
+margin-left:10px;
+box-sizing:border-box ;
+border-radius:6px;
+border:none;
+    background-color:#1778F2;
+    color:white;
+    font-weight:bold;
+    color:white;
+    font-size:27px;
+}
+
+.button:hover{
+    background-color:#58ACFA;
+}
+.for{
+margin:4px;
+    text-align:center ;
+    color:#1778F2;
+    font-size:25px;
+    display:flex;
+    justify-content:center ;
+    text-decoration:none;
+}
+.creat button{
+    height:70px;
+    width:300px;
+    background-color:#04B404;
+    border:none;
+    color:white;
+    font-size:26px;
+    border-radius:8px;
+    text-shadow: inset 0px 8px 8px black;
+    display:grid;
+    place-items:center;
+}
+.creat button:hover{
+    background-color:#A9F5A9;
+    text-shadow:inset 0px 0 10px black;
+}
+.creat{
+    display:flex;
+    margin-top:100px;
+    justify-content:center ;
+}
+.hop{
+font-size:22px;
+    display:grid;
+    position:absolute;
+    text-align:center ;
+   margin-top:14rem;
+    left:20%;
+    place-items:center ;
+    color:#3b5998;
+    line-height:30px;
+    
+}
+.jo{
+    font-size:22px;
+    display:grid;
+    position:absolute;
+    text-align:center ;
+    margin-top:14rem;
+    color:#3b5998;
+    left:70%;
+    line-height:30px;
+    place-items:center ;
+}
+.info{
+    font-size:18px;
+    display:grid;
+    color:gray;
+    position:absolute;
+    text-align:center ;
+    margin-top:24rem;
+    left:45%;
+    place-items:center ;
+}
+.gop{
+    padding-top:15px;
+    font-size:20px;
+}
+
+.pls{
+height:33px;
+width:33px;
+margin-top:3px;
+border:2px solid #3b5998;
+font-size:34px;
+border-radius:6px;
+text-align:center ;
+display:flex;
+align-items:center ;
+justify-content:center ;
+color:gray;
+text-shadow:0px 0px 4px gray;
+
+
+    
+}
+.orr{
+    text-align:center ;
+    color:Silver;
+    font-size:24px;
+    position:absolute ;
+    margin-top:15px;
+    left:10%;
+}
+.lil{
+    font-size:23px;
+    color:black;
+    line-height:45px;
+    position:absolute  ;
+    margin-top:0px;
+    left:23.2rem;
+}
+.hid{
+    opacity:0;
+}
+.no img{
+    height:50px;
+    width:30px;
+    margin:20px;
+    margin-top:0;
+    margin-left:0;
+    position:absolute;
+    left:20px;
+}
